@@ -1,6 +1,6 @@
 
 header {
-    background-color: rgb(42, 12, 110);
+    background-color: rgb(23, 0, 78);
     height: 100px;
     align-items: center;
     display: flex;
@@ -12,3 +12,13 @@ li {
     text-decoration: none;
     margin: 5px;
 }
+.row {
+    justify-content: center;
+}
+.pippo {
+    text-align: center;
+}
+.jumbotron {
+    background-color: aqua;
+}
+
