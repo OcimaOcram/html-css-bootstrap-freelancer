@@ -2,10 +2,13 @@
 header {
     background-color: rgb(42, 12, 110);
     height: 100px;
-    justify-content: center;
-    vertical-align: middle;
+    align-items: center;
+    display: flex;
+    color: white;
 }
 
-.white {
-    color: white;
+li {
+    display: inline;
+    text-decoration: none;
+    margin: 5px;
 }
