@@ -1,0 +1,11 @@
+
+header {
+    background-color: rgb(42, 12, 110);
+    height: 100px;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.white {
+    color: white;
+}
