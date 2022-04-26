@@ -36,3 +36,12 @@ li {
 #portfolio img {
     width: 240px;
 }
+.about {
+    background-color: aqua;
+    color: white;
+}
+#dowload {
+    background-color: aqua;
+    color: white;
+    
+}
