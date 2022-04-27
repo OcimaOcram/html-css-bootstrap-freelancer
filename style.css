@@ -52,3 +52,8 @@ li {
     border-right: 0px;
     border-color: rgba(128, 128, 128, 0.589);
 }
+footer {
+    color: white;
+    min-height: 100px;
+    background-color: rgb(23, 0, 78);
+}
